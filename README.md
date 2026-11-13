@@ -1,1 +1,1 @@
-# Cuaderno-Digital-de-Digitalizacion-26-27
+# Cuaderno-Digital de Digitalizacion 26/27
