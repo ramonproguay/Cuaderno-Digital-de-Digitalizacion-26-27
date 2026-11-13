@@ -3,11 +3,11 @@
 #  Ciudadania digital critica
 #  fake news 
 #  Encriptación
-Formulario y Custionario
-Hoja de calculo
-hardware
-programación
-Procesador de textos
-gimp
+# Formulario y Custionario
+# Hoja de calculo
+# hardware
+# programación
+# Procesador de textos
+# gimp
 
 
