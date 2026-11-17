@@ -1,6 +1,3 @@
-# Cuaderno de Digitalización
-
-En esta carpeta voy a guardar los trabajos y actividades que haga durante el curso de Digitalización.
 
 ## Imagen digital
 
