@@ -12,6 +12,10 @@ Para hacer este trabajo abrí la imagen de la zapatilla en GIMP. Después utilic
 
 Para realizar este trabajo abrí la imagen de la calle en GIMP. Utilicé las herramientas de edición para modificar la fotografía y decorar la ciudad con grafitis. Fui ajustando los elementos y su colocación para que quedaran integrados en la imagen. Al terminar, revisé el resultado y guardé el trabajo.
 #### Silueta
+
+<escape>![Silueta](../imagenes/negro.png)</escape>
+
+Para hacer esta actividad abrí la imagen en GIMP y utilicé las herramientas de selección para separar la figura del fondo. Después trabajé con los colores para dejar la figura en negro y conseguir el efecto de silueta. Por último, revisé la imagen y guardé el resultado.
 #### Retrato en blanco y negro
 #### Selección por colores: ramas y nubes
 
