@@ -13,7 +13,8 @@ En este trabajo hice una ilustración de un oso panda utilizando Inkscape. La im
 
 ## Vectorización con Inkscape
 
-![Proceso de vectorización en Inkscape](../imagenes/vectorizacion.png)
+<img width="672" height="621" alt="image" src="https://github.com/user-attachments/assets/0cc51bc4-6162-4934-88c4-761e3a51f04c" />
+
 
 En esta actividad utilicé Inkscape para vectorizar un dibujo. Primero partí de la imagen original y fui creando los trazados para repasar sus líneas y formas. Después trabajé con las zonas negras y blancas para separar las partes del dibujo y conseguir una versión vectorial. Por último, añadí color al diseño y obtuve el resultado final. Al estar vectorizado, el dibujo se puede ampliar sin perder calidad.
 
