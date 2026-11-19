@@ -13,5 +13,4 @@ En este trabajo hice una ilustración de un oso panda utilizando Inkscape. La im
 
 ## Vectorización con Inkscape
 
-## Proyecto puerta
 
