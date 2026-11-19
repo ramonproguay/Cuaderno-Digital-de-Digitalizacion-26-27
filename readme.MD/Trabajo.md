@@ -7,6 +7,10 @@
 Para hacer este trabajo abrí la imagen de la zapatilla en GIMP. Después utilicé las herramientas de selección para marcar las partes que quería modificar sin cambiar el resto de la imagen. Fui cambiando su aspecto y los colores de las zonas seleccionadas para conseguir una zapatilla personalizada. Por último, revisé el resultado y guardé la imagen en formato PNG.
 
 #### Decorar ciudad
+
+<escape>![Ciudad decorada con grafitis](../imagenes/calle%20de%20grafiti.jpg)</escape>
+
+Para realizar este trabajo abrí la imagen de la calle en GIMP. Utilicé las herramientas de edición para modificar la fotografía y decorar la ciudad con grafitis. Fui ajustando los elementos y su colocación para que quedaran integrados en la imagen. Al terminar, revisé el resultado y guardé el trabajo.
 #### Silueta
 #### Retrato en blanco y negro
 #### Selección por colores: ramas y nubes
