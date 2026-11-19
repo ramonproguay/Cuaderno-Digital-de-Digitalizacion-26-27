@@ -17,6 +17,10 @@ Para realizar este trabajo abrí la imagen de la calle en GIMP. Utilicé las her
 
 Para hacer esta actividad abrí la imagen en GIMP y utilicé las herramientas de selección para separar la figura del fondo. Después trabajé con los colores para dejar la figura en negro y conseguir el efecto de silueta. Por último, revisé la imagen y guardé el resultado.
 #### Retrato en blanco y negro
+
+<escape>![Retrato en blanco y negro](../imagenes/negro%20balon.png)</escape>
+
+Para realizar esta actividad abrí la fotografía en GIMP. Después utilicé las herramientas de color para pasar la imagen a blanco y negro, quitando los colores y dejando diferentes tonos de gris. Ajusté el resultado para que se vieran bien las partes claras y oscuras de la fotografía. Por último, revisé la imagen y guardé el resultado en formato PNG.
 #### Selección por colores: ramas y nubes
 
 # Inkscape
