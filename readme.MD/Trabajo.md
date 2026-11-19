@@ -19,7 +19,7 @@ Para hacer esta actividad abrí la imagen en GIMP y utilicé las herramientas de
 #### Retrato en blanco y negro
 #### Selección por colores: ramas y nubes
 
-### Inkscape
+# Inkscape
 - Dibujo con Inkscape
 - Vectorización con Inkscape
 - Proyecto puerta
