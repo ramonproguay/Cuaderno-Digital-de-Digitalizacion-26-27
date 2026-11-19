@@ -1,4 +1,4 @@
-### GIMP
+# GIMP
 
 #### Tuneado de zapatilla 
 
