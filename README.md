@@ -4,6 +4,6 @@ Soy Ramón y aquí iré subiendo los trabajos, actividades y proyectos que haga 
 
 ##  Contenido del cuaderno
 
-En el apartado de **[Trabajos](readme.MD/Trabajo.md)** puedes encontrar el índice con las actividades organizadas por temas:
+En el apartado de **[Trabajos](readme.MD)** puedes encontrar el índice con las actividades organizadas por temas:
 
 
