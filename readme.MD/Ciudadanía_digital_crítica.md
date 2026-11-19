@@ -1,2 +1,0 @@
-
-# Ciudadanía digital crítica
