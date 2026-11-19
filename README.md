@@ -1,4 +1,4 @@
-# 💻 Mi cuaderno de Digitalización 26/27
+#  Mi cuaderno de Digitalización 26/27
 
 ¡Bienvenido a mi cuaderno digital!
 
