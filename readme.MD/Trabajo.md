@@ -27,7 +27,6 @@
 ## Programación
 
 ## Lecturas
-- Lectura 1. Tus bitcoins son claves
 
 ### Lectura 1. Tus bitcoins son claves
 
