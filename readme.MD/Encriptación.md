@@ -12,7 +12,7 @@ Se utiliza, por ejemplo, para proteger mensajes, archivos y datos personales cua
 
 [https://cifraronline.com/](https://cifraronline.com/)
 
-Esta página permite escribir un texto y cifrarlo usando una contraseña. El resultado parece un conjunto de letras y símbolos que no se pueden entender fácilmente. Para volver a leer el mensaje hay que descifrarlo con la contraseña correspondiente.
+Esta página permite escribir un texto y cifrarlo usando una contraseña.
 
 Sirve para aprender cómo se protege un mensaje y cómo se puede recuperar después.
 
@@ -31,9 +31,3 @@ Sirve para comprender cómo se pueden enviar mensajes de forma que solo la perso
 Esta página transforma un texto en un código llamado hash. Permite generar distintos tipos, como MD5, SHA-1 y SHA-256.
 
 Un hash no es lo mismo que un texto cifrado: normalmente no se puede recuperar el texto original a partir del hash. Se utiliza para comprobar información y para otros usos relacionados con la seguridad informática.
-
-## Conclusión
-
-Con estas herramientas he aprendido que existen distintas formas de proteger o transformar la información. El cifrado permite ocultar un mensaje y recuperarlo con una clave, RSA utiliza una pareja de claves y los hashes generan códigos que sirven para identificar o comprobar datos.
-
-**Importante:** estas páginas sirven para practicar. No debo introducir contraseñas reales ni información personal o privada en herramientas online.
