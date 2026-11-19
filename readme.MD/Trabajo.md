@@ -23,6 +23,10 @@ Para hacer esta actividad abrí la imagen en GIMP y utilicé las herramientas de
 Para realizar esta actividad abrí la fotografía en GIMP. Después utilicé las herramientas de color para pasar la imagen a blanco y negro, quitando los colores y dejando diferentes tonos de gris. Ajusté el resultado para que se vieran bien las partes claras y oscuras de la fotografía. Por último, revisé la imagen y guardé el resultado en formato PNG.
 #### Selección por colores: ramas y nubes
 
+<escape>![Selección por colores: ramas y nubes](../imagenes/nubes.jpg)</escape>
+
+Para hacer esta actividad abrí la imagen de las ramas y las nubes en GIMP. Utilicé la herramienta de selección por colores para seleccionar las zonas que tenían colores parecidos. Así pude trabajar con las ramas y las nubes por separado, sin tener que seleccionar cada parte a mano. Después ajusté las zonas seleccionadas y revisé el resultado. Por último, guardé la imagen.
+
 # Inkscape
 - Dibujo con Inkscape
 - Vectorización con Inkscape
