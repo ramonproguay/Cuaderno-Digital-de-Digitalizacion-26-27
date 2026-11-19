@@ -1,19 +1,15 @@
- 
-## Imagen digital
-
 ### GIMP
-- Tuneado de zapatilla
 
-#### Tuneado de zapatilla con GIMP
+#### Tuneado de zapatilla 
 
 <escape>![Zapatilla tuneada](../imagenes/zapatilla.png)</escape>
 
 Para hacer este trabajo abrí la imagen de la zapatilla en GIMP. Después utilicé las herramientas de selección para marcar las partes que quería modificar sin cambiar el resto de la imagen. Fui cambiando su aspecto y los colores de las zonas seleccionadas para conseguir una zapatilla personalizada. Por último, revisé el resultado y guardé la imagen en formato PNG.
 
-- Decorar ciudad
-- Silueta
-- Retrato en blanco y negro
-- Selección por colores: ramas y nubes
+#### Decorar ciudad
+#### Silueta
+#### Retrato en blanco y negro
+#### Selección por colores: ramas y nubes
 
 ### Inkscape
 - Dibujo con Inkscape
