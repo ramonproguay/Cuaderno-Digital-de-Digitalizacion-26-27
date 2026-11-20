@@ -1,6 +1,6 @@
 # Proyecto puerta
 
-<img width="3897" height="7228" alt="dibujo3" src="https://github.com/user-attachments/assets/7e49f3b5-4b31-4726-b78e-d7f8d8387d97" />
+<img width="10%" height="10%" alt="dibujo3" src="https://github.com/user-attachments/assets/7e49f3b5-4b31-4726-b78e-d7f8d8387d97" />
 
 La imagen es un cartel relacionado con la robótica, realizado mediante el programa GIMP.
 
